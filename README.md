@@ -1,7 +1,11 @@
-# Standing–Katz Z-Factor Chart
-(Petroleum Fluid Properties)
+# Standing–Katz Z-Factor Chart (Petroleum Fluid Properties)
+
 
 An interactive, calculation-backed version of the Standing–Katz natural-gas compressibility chart, for petroleum engineering coursework and quick reservoir-engineering checks.
+
+▶ **Open it:** https://kendrewflor.github.io/standing-katz-z-factor/
+
+▶ **Open it:** https://kendrewflor.github.io/standing-katz-z-factor/
 
 ▶ **Open it:** https://kendrewflor.github.io/standing-katz-z-factor/
 
@@ -47,6 +51,6 @@ To run the page locally, open `index.html` in a browser. There is no build step 
 
 No dependencies, no third-party scripts or styles, fonts served from the repo itself (`fonts/`: Big Shoulders Stencil, B612 and B612 Mono, SIL Open Font License), a strict Content-Security-Policy, no network calls, and every GitHub Action pinned to a commit SHA. See [SECURITY.md](SECURITY.md).
 
-## Licence
+## License
 
-MIT © 2026 Kendrew Flor S. Arrabe
+MIT © 2026 Kendrew Flor S. Arrabe, PetE
